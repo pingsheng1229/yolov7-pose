@@ -1,0 +1,7 @@
+# Ignore specific files
+yolov7-w6-pose.pt
+yolov7-w6-person.pt
+SourceCode.zip
+
+# Ignore the runs folder and all its contents
+runs/
